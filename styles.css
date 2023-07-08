@@ -13,7 +13,7 @@ body {
 }
 
 .header {
-  height: 100px;
+  height: auto;
 }
 
 .header-container {
@@ -41,7 +41,7 @@ body {
   height: 48px;
   display: flex;
   justify-content: space-between;
-  padding-top: 12px;
+  padding-top: 50px;
 }
 
 .logo {
@@ -53,6 +53,7 @@ body {
 .fa-bars {
   font-size: 1.5em;
   color: #6070ff;
+  padding-right: 4px;
 }
 
 .nav-items {
@@ -63,7 +64,7 @@ body {
   background-image: url("./images/header-shapes\ mobile.png");
   background-repeat: no-repeat;
   background-color: #fff;
-  background-size: cover;
+  background-size: 100;
   background-position: center;
   padding-top: 70px;
   height: 718px;
@@ -111,5 +112,5 @@ p {
   justify-content: flex-start;
   gap: 20px;
   list-style: none;
-  size: 50px;
+  font-size: 20px;
 }
