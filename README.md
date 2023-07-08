@@ -4,7 +4,7 @@ In this milestone I will be setting up a mobile first project using HTML and CSS
 <a name="readme-top"></a>
 
 
-!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
  
