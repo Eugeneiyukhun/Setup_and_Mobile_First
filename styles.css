@@ -129,7 +129,6 @@ p {
   width: 100%;
   padding-top: 50px;
   margin: 40px auto;
-  
 }
 
 .card-container {
@@ -145,7 +144,6 @@ p {
   align-content: center;
 }
 
-.card >
 .work-section li {
   display: flex;
   align-items: center;
@@ -206,7 +204,6 @@ p {
   color: #6070ff;
   border-radius: 8px;
   text-decoration: none;
-
 }
 
 .card-container p {
@@ -289,8 +286,7 @@ p {
   font-weight: 600;
 }
 
-.frames li span {
-  padding-top: 30px;
+.frames li span {padding-top: 30px;
   display: flex;
   align-items: center;
   gap: 5px;
