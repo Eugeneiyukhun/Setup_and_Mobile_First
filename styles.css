@@ -189,12 +189,12 @@ p {
   line-height: 24px;
 }
 
-.language-list li{
+.language-list li {
   display: flex;
   align-items: center;
   gap: 15px;
   padding-top: 24px;
-  background-color:#f7f7f9;
+  background-color: #f7f7f9;
   margin-top: 9px;
   border-radius: 8px;
 }
@@ -251,11 +251,11 @@ p {
 .about-myself {
   width: 100%;
   margin-top: 50px;
+  padding: 20px;
   padding-top: 40px;
   background-color: #fff;
   height: 1150px;
   border-top-right-radius: 120px;
-  padding: 20px;
 }
 
 .about-myself h1 {
@@ -292,7 +292,7 @@ p {
   font-weight: 600;
 }
 
-.frames li span {padding-top: 30px;
+.frames li span { padding-top: 30px;
   display: flex;
   align-items: center;
   gap: 5px;
