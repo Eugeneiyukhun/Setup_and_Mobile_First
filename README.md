@@ -1,6 +1,6 @@
 # Setup_and_Mobile_First
 In this milestone I will be setting up a mobile first project using HTML and CSS
- 
+ Built the work and about myself section 
 <a name="readme-top"></a>
 
 
@@ -33,6 +33,9 @@ In this milestone I will be setting up a mobile first project using HTML and CSS
 - HTML semantic tags
 
 - CSS flexbox
+
+- CSS grid
+
 
 
 <details>
