@@ -189,6 +189,16 @@ p {
   line-height: 24px;
 }
 
+.language-list li{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding-top: 24px;
+  background-color:#f7f7f9;
+  margin-top: 9px;
+  border-radius: 8px;
+}
+
 .position li:first-child {
   color: #344563;
   list-style: none;
@@ -275,16 +285,6 @@ p {
   padding-left: 5px;
   padding-right: 5px;
   gap: 2px;
-}
-
-.language-list li{
-  display: flex;
-  align-items: center;
-  gap: 15px;
-  padding-top: 24px;
-  background-color:#f7F7f9;
-  margin-top: 9px;
-  border-radius: 8px;
 }
 
 .language-list li h2 {
