@@ -176,7 +176,6 @@ p {
   font-size: 10px;
 }
 
-
 .programming-lang li {
   margin-bottom: 10px;
   list-style: none;
@@ -262,6 +261,7 @@ p {
   display: flex;
   justify-content: space-between;
 }
+
 .languages h2 {
   height: 24px;
   top: 24px;
@@ -282,7 +282,7 @@ p {
   align-items: center;
   gap: 15px;
   padding-top: 24px;
-  background-color:#F7F7F9;
+  background-color:#f7F7f9;
   margin-top: 9px;
   border-radius: 8px;
 }
@@ -298,4 +298,3 @@ p {
   gap: 5px;
   justify-content: space-between;
 }
-
