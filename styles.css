@@ -48,7 +48,6 @@ body {
   font-size: 20px;
   font-weight: 600;
   color: #6070ff;
- 
 }
 
 a.logo {
@@ -177,22 +176,28 @@ p {
   font-size: 10px;
 }
 
+
+.programming-lang li {
+  margin-bottom: 10px;
+  list-style: none;
+}
+
+.frames li {
+  color: #000;
+  list-style: none;
+  font-size: 13px;
+  font-weight: 500px;
+  line-height: 24px;
+}
+
 .position li:first-child {
   color: #344563;
   list-style: none;
-}
-.card-container p {
-  font-weight: 400;
 }
 
 .programming-lang {
   display: flex;
   flex-wrap: wrap;
-}
-
-.programming-lang li {
-  margin-bottom: 10px;
-  list-style: none;
 }
 
 .programming-lang li a {
@@ -207,6 +212,7 @@ p {
 }
 
 .card-container p {
+  font-weight: 400;
   font-size: 15px;
   color: #344563;
 }
@@ -293,10 +299,3 @@ p {
   justify-content: space-between;
 }
 
-.frames li {
-  color:#000000;
-  list-style: none;
-  font-size: 13px;
-  font-weight: 500px;
-  line-height: 24px;
-}
