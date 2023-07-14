@@ -51,8 +51,8 @@ body {
  
 }
 
-.app-bar a {
-  text-decoration-style: none;
+a.logo {
+  text-decoration-line: none;
 }
 
 .fa-bars {
