@@ -116,26 +116,43 @@ p {
 /* cards */
 .work-section {
   display: grid;
-  grid-template-columns: 1fr;
-  margin-top: 50px;
+  width: 100%;
+  padding: 20px;
+}
+
+.general-container {
+    width:100%;
+}
+
+.work-container {
+  width: 100%;
+  padding-top: 50px;
+  margin: 40px auto;
+  
 }
 
 .card-container {
+  width: 100%;
   display: flex;
   flex-direction: column;
   background-color: #fff;
-  border-radius: 16px;
+  border-radius: 20px;
   padding: 20px;
-  margin-top: 104px;
   border: 1px solid #e6e8eb;
+  align-items: center;
+  margin: 0 auto;
+  align-content: center;
+}
+
+.card >
+.work-section li {
+  display: flex;
+  align-items: center;
+  width: 100%;
 }
 
 .card-desk {
   display: none;
-}
-
-.card {
-
 }
 
 .left-block {
@@ -150,29 +167,27 @@ p {
 .position {
   display: flex;
   margin-top: 10px;
+  gap: 15px;
 }
 
 .position li {
-  margin-right: 10px;
-  font-weight: 600;
-  font-size: 13px;
+  font-weight: 450;
+  font-size: 15px;
   color: #7a869a;
+  list-style: none;
 }
 
 .position li i {
   color: #7a869a;
   font-size: 10px;
-  margin-left: 10px;
 }
 
 .position li:first-child {
   color: #344563;
+  list-style: none;
 }
-
-.position li:first-child i {
-  color: #7a869a;
-  font-size: 10px;
-  margin-left: 10px;
+.card-container p {
+  font-weight: 400;
 }
 
 .programming-lang {
@@ -182,6 +197,7 @@ p {
 
 .programming-lang li {
   margin-bottom: 10px;
+  list-style: none;
 }
 
 .programming-lang a {
@@ -194,9 +210,6 @@ p {
   border-radius: 8px;
 }
 
-.programming-lang li {
-  list-style: none;
-}
 .card-container p {
   font-size: 15px;
   color: #344563;
@@ -225,26 +238,26 @@ p {
 }
 
 .about-myself {
-  padding-left: 20px;
+  background-color: #fff;
   width: 100%;
-  height: 800px;
   gap: 24px;
-  padding-top: 10px;
-  padding-bottom: 114px;
 }
 
 .about-container {
   border-top-right-radius: 170px;
+  width: 0 auto;
 }
 
 .about-top {
-  width: 327px;
-  height: 346px;
+  padding-top: 50px;
+  width: 0 auto;
   gap: 12px;
 }
 
 .about-top p {
-font-weight: 400;
+  font-size: 15px;
+  color: #344563;
+
 }
 
 .btn-secondary_container {
@@ -279,7 +292,7 @@ font-weight: 400;
 .skill-list_container {
   padding-top: 100px;
   padding-left: 10px;
-  width: 92%;
+  width: 100%;
   height: 470px;
   padding-bottom: 12px;
 }
@@ -289,14 +302,12 @@ font-weight: 400;
   justify-content: space-between;
 }
 .languages h2 {
-  width: 237px;
   height: 24px;
   top: 24px;
   left: 12px;
 }
 
 .languages h2 i {
-  width: 24px;
   height: 24px;
   padding-top: 8px;
   padding-bottom: 8px;
@@ -323,6 +334,11 @@ font-weight: 400;
   justify-content: space-between;
 }
 
-span {
+.frames li:first-child {
+  color: #344563;
+  list-style: none;
+}
+.frames li:first-child {
+  color: #344563;
   list-style: none;
 }
