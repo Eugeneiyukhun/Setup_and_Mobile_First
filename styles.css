@@ -171,6 +171,10 @@ p {
   list-style: none;
 }
 
+.languages i {
+  padding-right: 35px;
+}
+
 .position li i {
   color: #7a869a;
   font-size: 10px;
@@ -300,9 +304,6 @@ p {
   left: 12px;
 }
 
-.languages i {
-  padding-right: 35px;
-}
 .languages h2 i {
   color: #253858;
   height: 24px;
