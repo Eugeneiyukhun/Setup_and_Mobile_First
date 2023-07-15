@@ -120,42 +120,47 @@ p {
 
 /* cards */
 .work-section {
-  display: grid;
-  width: 100%;
   padding: 20px;
+  margin: 0 auto;
 }
 
 .work-container {
-  width: 100%;
-  padding-top: 50px;
-  margin: 40px auto;
-}
-
-.card-container {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
   background-color: #fff;
-  border-radius: 20px;
-  padding: 20px;
-  border: 1px solid #e6e8eb;
-  align-items: center;
-  margin: 0 auto;
-  align-content: center;
-}
-
-.work-section li {
   display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  padding-top: 20px;
   align-items: center;
-  width: 100%;
+  border-radius: 20px;
+  margin: 40px auto;
+  border: 1px solid #e6e8eb;
 }
 
-.card-desk {
+.card {
+  flex: 1;
+}
+
+.left-block {
+  flex: 2;
+}
+
+.work-container-desk {
   display: none;
 }
 
+.card {
+  padding: 20px;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.left-block {
+  padding: 20px;
+  align-items: center;
+}
+
 .left-block h2 {
-  font-size: 32px;
+  font-size: 38px;
   line-height: 44px;
 }
 
@@ -209,6 +214,10 @@ p {
   display: flex;
 }
 
+.programming-lang ul li {
+  padding-right: 10px;
+}
+
 .programming-lang li {
   flex-wrap: wrap;
 }
@@ -224,7 +233,7 @@ p {
   text-decoration: none;
 }
 
-.card-container p {
+.work-container p {
   font-weight: 400;
   font-size: 15px;
   color: #344563;
@@ -284,8 +293,12 @@ p {
   flex-direction: column;
 }
 
-.skill-list_container {
+.skill-container {
   padding-top: 40px;
+}
+
+.language-list {
+  margin-top: 30px;
 }
 
 .languages {
@@ -313,10 +326,34 @@ p {
   font-weight: 600;
 }
 
+.frames {
+  margin-top: 10px;
+}
+
 .frames li span {
   padding-top: 30px;
   display: flex;
   align-items: center;
   gap: 5px;
   justify-content: space-between;
+}
+
+
+/*.card-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #7f8cff;
+  border-radius: 20px;
+  padding: 20px;
+  border: 1px solid #e6e8eb;
+  align-items: center;
+  margin: 0 auto;
+  align-content: center;
+}/
+
+.work-section li {
+  display: flex;
+  align-items: center;
+  width: 100%;
 }
