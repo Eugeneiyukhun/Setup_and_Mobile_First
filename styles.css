@@ -270,16 +270,25 @@ p {
   border-top-right-radius: 120px;
 }
 
+.about-container {
+  flex: 1;
+  margin-top: 70px;
+}
+
+. .about-myself h2 {
+  padding-top: 600px;
+  font-weight: 700px;
+  font-size: 80px;
+  height: 24px;
+  color: #172b4d;
+}
+
 .about-myself p {
   color: #344563;
 }
 
 .about-me-desktop {
   display: none;
-}
-
-.about-container {
-  flex: 1;
 }
 
 .skill-container {
