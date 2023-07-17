@@ -1,6 +1,6 @@
 # Setup_and_Mobile_First
 In this milestone I will be setting up a mobile first project using HTML and CSS
- 
+ Built the work and about myself section 
 <a name="readme-top"></a>
 
 
@@ -33,6 +33,9 @@ In this milestone I will be setting up a mobile first project using HTML and CSS
 - HTML semantic tags
 
 - CSS flexbox
+
+- CSS grid
+
 
 
 <details>
@@ -142,6 +145,6 @@ I would like to thank all my Mricronauts partners...
 
 ## 📝 License <a name="license"></a>
 
- This project is [MIT](./LICENSE) licensed.
+ This project is [MIT](./License.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
