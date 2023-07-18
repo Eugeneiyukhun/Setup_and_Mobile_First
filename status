@@ -1,0 +1,227 @@
+[33mcommit cf006c6b6feff202448885d5ddf76ad29e811c96[m[33m ([m[1;36mHEAD -> [m[1;32mcontact-form[m[33m, [m[1;31morigin/contact-form[m[33m)[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Tue Jul 18 14:58:58 2023 +0100
+
+    Modified index.html and styles.css
+
+[33mcommit b4336c7c4133a6998ff604161ba37287a1a8bbcb[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Tue Jul 18 13:16:07 2023 +0100
+
+    Added contact form by modifying index.html and styling the styles,css
+
+[33mcommit 60ec17d42c11240705a4c71cba95ca2a603156c7[m[33m ([m[1;31morigin/work-section[m[33m, [m[1;32mwork-section[m[33m)[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Tue Jul 18 11:34:13 2023 +0100
+
+    Modified index.html and styles.css
+
+[33mcommit 71f3a35664e914b70779a3233dddc3481548ead7[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Sun Jul 16 01:38:21 2023 +0100
+
+    Modified index.html and stiles.css
+
+[33mcommit a2ef7b90ad73e1c544ca1c43865d36df78a66292[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Sun Jul 16 00:08:04 2023 +0100
+
+    modified styles.css
+
+[33mcommit 69c9106f5b506cb482421616d1bc2e74e52c56ed[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Sun Jul 16 00:04:28 2023 +0100
+
+    Modified index.html and styles.css
+
+[33mcommit 74ba6e952cabcc6483886161c807ea971e1a511c[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Sat Jul 15 21:41:52 2023 +0100
+
+    Modified styles.css
+
+[33mcommit afbe1f0c3304211f1346769b59575399621a1666[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Sat Jul 15 21:24:33 2023 +0100
+
+    Modified index.html and styles.css
+
+[33mcommit 4d38813098fbb3ed77353f1ec88414da7beabcb7[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Sat Jul 15 15:13:31 2023 +0100
+
+    Modified index.html and styles.css
+
+[33mcommit 2e1e6930b91b5468720102a477c7a4222cd06280[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Sat Jul 15 09:43:23 2023 +0100
+
+    Modified changes on .github/worflow/linters.yml, .hintrc, readme.md, package-lock.json, package.json, stylelintrc.json
+
+[33mcommit a30156b48cef89e7fbd2f386911d7c745914f78b[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Fri Jul 14 23:34:36 2023 +0100
+
+    Modify styles.css
+
+[33mcommit 30b1fe6c739038c4f426206bcc79b8bb1fe8db3e[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Fri Jul 14 23:31:18 2023 +0100
+
+    Modified styles.css
+
+[33mcommit de01f12b97ee3fb68b4a26d37ce99524fed24758[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Fri Jul 14 23:25:28 2023 +0100
+
+    Modified styles.css
+
+[33mcommit 0663fae2cf6612380357f8fddfe882a174259b7c[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Fri Jul 14 23:17:08 2023 +0100
+
+    Modify styles.css
+
+[33mcommit 350705c8892d09f991dea0d0e72a95047e0b1190[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Fri Jul 14 23:06:57 2023 +0100
+
+    All all
+
+[33mcommit d25275e96be10d3f9cf4b49cdeacc078ddb1e040[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Fri Jul 14 19:52:48 2023 +0100
+
+    Modified styles.css
+
+[33mcommit ac83ca5353b1c48739519e7aae7d542365b87d4a[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Fri Jul 14 19:32:49 2023 +0100
+
+    Modified readme.md
+
+[33mcommit ee4aef34092aa738ebc9cd7e9148e600ed7b7ebb[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Fri Jul 14 19:23:25 2023 +0100
+
+    Modified styles.css
+
+[33mcommit 1c53b5f70be4113523db01b72afd348e57927c28[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Fri Jul 14 18:58:40 2023 +0100
+
+    Modified styles.css
+
+[33mcommit f0907cf7fbb4454e9d022521053f073ce4b9d71a[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Fri Jul 14 17:55:44 2023 +0100
+
+    Modified index.html and styles.css
+
+[33mcommit 10c5d21b5923234505aefdaba428ffd9b3e6d906[m
+Author: unknown <eugenelegend@gmail.com>
+Date:   Fri Jul 14 14:55:34 2023 +0100
+
+    Add .gitignore, index.html, styles.css
+
+[33mcommit 25b32491ac76b807ec4683214eb51547b3c19dfa[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Mon Jul 10 15:29:21 2023 -0700
+
+    Modify index.html
+
+[33mcommit be240ce666dfec83e0c0b696b479013bc026e6de[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Mon Jul 10 15:23:30 2023 -0700
+
+    Modified index.html
+
+[33mcommit 2c95a9b67015b84edb701d79389dd8e795e4fd4b[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Mon Jul 10 14:59:04 2023 -0700
+
+    Modified index.html and styles.css
+
+[33mcommit 98175ffd5793b40b417f8bc7e5c5c7b418deea11[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Sat Jul 8 20:40:23 2023 -0700
+
+    Added images
+
+[33mcommit 52a4d4d18ad43e048de13fe0650fddfed2a1a4f0[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Sat Jul 8 19:58:00 2023 -0700
+
+    Modified index.html and styles.css
+
+[33mcommit 5852e47b960aa953667281387a9c99b03297f03c[m[33m ([m[1;31morigin/headline-section[m[33m, [m[1;32mheadline-section[m[33m)[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Sat Jul 8 13:52:12 2023 -0700
+
+    Modify styles.css
+
+[33mcommit 2b4ddefbb190be2e61cbd39df0a1a4b76fbc19e1[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Sat Jul 8 13:34:15 2023 -0700
+
+    Modify index.html, and styles.css
+
+[33mcommit 5aaff270d8f4861d3ee5dea49ce843300d232ac8[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Sat Jul 8 11:39:49 2023 -0700
+
+    Modify readme.md
+
+[33mcommit 87993a4f13c908bbd28860f50c13b7797d3530b6[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Sat Jul 8 11:15:07 2023 -0700
+
+    Add License.md and modify readme.md files
+
+[33mcommit b2088c81dc591626e528a9cfac6fd84f843a3cdb[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Sat Jul 8 11:03:25 2023 -0700
+
+    Modify css indentation
+
+[33mcommit eec1da6ec7e44d76e21090301dd3ebdc94de72a7[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Sat Jul 8 07:59:18 2023 -0700
+
+    Modify index.html, styles.css and add images
+
+[33mcommit 1faadb7091d7033e44edd56282a566337660811d[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Fri Jul 7 16:23:01 2023 -0700
+
+    Modify index.html
+
+[33mcommit 3425513d0ccb05abef8bc9a7508b6cfb1ef5aa98[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Fri Jul 7 16:02:25 2023 -0700
+
+    Add index.html and styles.css
+
+[33mcommit e3c50dcc371646ad9896bf39bf4dc6e9601800a7[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Fri Jul 7 16:00:32 2023 -0700
+
+    Add .hintrc, .stylelintrc.js, package-lock.json, package.json
+
+[33mcommit f3742460b524e744ea18739c53bb5f3b36a92d12[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Fri Jul 7 12:04:41 2023 -0700
+
+    Add a .gitignore file
+
+[33mcommit 8cb9128112dce3b301e6a4f10e44f139074ec441[m
+Author: Eugeneiyukhun <eugenelegend@gmail.com>
+Date:   Fri Jul 7 12:00:31 2023 -0700
+
+    Add .github, workflows and linters.yml file
+
+[33mcommit 90abd4de9fca6d89496f39e84619f540dee36a28[m[33m ([m[1;32mmain[m[33m)[m
+Author: Eugeneiyukhun <106796923+Eugeneiyukhun@users.noreply.github.com>
+Date:   Fri Jul 7 02:44:16 2023 -0700
+
+    Initial commit
