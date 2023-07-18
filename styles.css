@@ -354,13 +354,14 @@ p {
   height: 800px;
   background-color: #6070ff;
   background-image: url(./images/contact\ form\ shapes-mobile.svg);
-  background-repeat: none;
-  margin-top: 50px;
-  margin: 0 auto;
+  background-repeat: no-repeat;
+  margin-top: 300px;
+  background-size: contain;
+  background-position: right;
+  border-top-left-radius: 120px;
 }
 
 .contact_container {
-  border-top-left-radius: 120px;
   padding: 20px;
   padding-top: 200px;
 }
@@ -374,4 +375,15 @@ p {
   color: #fff;
   padding-top: 50px;
   font-weight: 20px;
+}
+
+.form {
+  margin-top: 30px;
+}
+
+.input {
+  gap: 100px;
+  height: 25px;
+  list-style: none;
+  border-radius: 5px;
 }
