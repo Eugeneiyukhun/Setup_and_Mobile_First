@@ -349,3 +349,29 @@ p {
 .frames li i {
   padding-right: 35px;
 }
+
+.contact_section {
+  height: 800px;
+  background-color: #6070ff;
+  background-image: url(./images/contact\ form\ shapes-mobile.svg);
+  background-repeat: none;
+  margin-top: 50px;
+  margin: 0 auto;
+}
+
+.contact_container {
+  border-top-left-radius: 120px;
+  padding: 20px;
+  padding-top: 200px;
+}
+
+.contact_container h1 {
+  color: #fff;
+  padding-left: 70px;
+}
+
+.contact_section p {
+  color: #fff;
+  padding-top: 50px;
+  font-weight: 20px;
+}
