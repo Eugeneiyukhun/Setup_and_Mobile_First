@@ -356,7 +356,11 @@ p {
   padding-right: 35px;
 }
 
-.contact_section {
+.footer_section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   height: 800px;
   background-color: #6070ff;
   background-image: url(./images/contact\ form\ shapes-mobile.svg);
@@ -367,18 +371,18 @@ p {
   border-top-left-radius: 120px;
 }
 
-.contact_container {
+.footer_container {
   padding: 20px;
   padding-top: 200px;
 }
 
-.contactform-header {
+.footer_header {
   margin-top: -4rem;
   color: #fff;
   margin-left: 12%;
 }
 
-.contact_section p {
+.footer_section p {
   justify-content: center;
   color: #fff;
   font-weight: 20px;
