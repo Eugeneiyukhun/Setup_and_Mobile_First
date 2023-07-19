@@ -387,6 +387,9 @@ p {
 }
 
 .form {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
   margin-top: 30px;
 }
 
