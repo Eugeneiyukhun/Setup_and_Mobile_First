@@ -206,6 +206,12 @@ p {
   padding-bottom: 30px;
 }
 
+.form li {
+  margin-top: 1.3rem;
+  list-style: none;
+  border-radius: 5px;
+}
+
 .programming-lang ul li {
   padding-right: 10px;
 }
@@ -382,12 +388,6 @@ p {
 
 .form {
   margin-top: 30px;
-}
-
-.form li {
-  margin-top: 1.3rem;
-  list-style: none;
-  border-radius: 5px;
 }
 
 .input-text {
