@@ -62,17 +62,25 @@ a.logo {
 }
 
 .nav-items {
-  display: none;
+  visibility: hidden;
+}
+
+.desktop {
+  display: hidden;
+}
+
+.desktop_container {
+  visibility: hidden;
 }
 
 .hero-section {
   background-image: url("./images/header-shapes\ mobile.png");
   background-repeat: no-repeat;
   background-color: #fff;
-  background-size: 100%;
-  background-position: center;
+  background-size: contain;
+  background-position: right;
   padding-top: 70px;
-  height: 690px;
+  height: 750px;
   border-bottom-left-radius: 120px;
 }
 
@@ -425,4 +433,135 @@ p {
   outline: none;
   border: 1px solid #cfd8dc;
   margin-bottom: 0.6rem;
+}
+
+@media screen and (min-width: 768px) {
+  #mobile {
+    visibility: hidden;
+  }
+
+  .desktop_container {
+    visibility: inherit;
+  }
+
+  body {
+    font-size: 20px;
+    line-height: 28px;
+  }
+
+  header {
+    padding: 30px 155px;
+  }
+
+  .header-container {
+    height: 92px;
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    position: fixed;
+    background-color: white;
+  }
+
+  .hero-container {
+    padding: 20px;
+  }
+  .fa-bars {
+    visibility: hidden;
+  }
+
+  .nav-items {
+    visibility: visible;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    outline: none;
+    gap: 10px;
+  }
+
+  .hero-section {
+    background-image: url("./images/desktopheader\ bg.svg");
+    background-repeat: no-repeat;
+    background-color: #fff;
+    background-size: contain;
+    background-position: right;
+    padding-top: 70px;
+    padding: 70px;
+    height: 750px;
+    border-bottom-left-radius: 120px;
+  }
+
+  .hx {
+    padding-top: 90px;
+    font-size: 46px;
+    margin-top: 12px;
+    line-height: 52px;
+    color: #344563;
+  }
+
+  p {
+    margin: 10px 0;
+    line-height: 24px;
+  }
+
+  .connect {
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 12px;
+    text-decoration: none;
+    margin-right: 10px;
+    color: #7f8cff;
+  }
+
+  .connect:hover {
+    color: #172b4d;
+    opacity: 0.5;
+  }
+
+  .social-media {
+    margin: 0;
+    padding-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+    list-style: none;
+    font-size: 20px;
+  }
+
+  .desktop {
+    padding: ;
+    margin-top: 20px;
+    height: auto;
+  }
+
+  .desktop_container {
+    background-color: #fff;
+    display: flex;
+    padding-top: 50px;
+    align-items: center;
+    border-radius: 20px;
+    margin: 40px auto;
+    border: 1px solid #e6e8eb;
+    row-gap: 10%;
+  }
+
+  .card {
+    width: 45% auto;
+    padding: 3%;
+  }
+
+  .left-block {
+    width: 55% auto;
+    padding: 3%;
+  }
+
+  .h2-desktop {
+    padding-top: 10px;
+  }
+
+  #about-myself-desktop {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 50px;
+  }
 }
