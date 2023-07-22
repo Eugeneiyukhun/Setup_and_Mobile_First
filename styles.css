@@ -88,7 +88,7 @@ h1 {
   font-size: 46px;
   margin-top: 12px;
   line-height: 52px;
-  color: #344563;
+  color: #091e42;
 }
 
 p {
@@ -274,7 +274,7 @@ p {
   padding: 20px;
   padding-top: 40px;
   background-color: #fff;
-  height: 1150px;
+  height: 820px;
   border-top-right-radius: 120px;
 }
 
@@ -313,9 +313,8 @@ p {
 
 .languages h2 {
   color: #253858;
-  height: 24px;
-  top: 24px;
-  left: 12px;
+  font-weight: 15;
+  font-size: 37px;
 }
 
 .languages h2 i {
@@ -352,6 +351,11 @@ p {
 
 .frames li i {
   padding-right: 35px;
+}
+
+.frames h2 {
+  font-weight: 15;
+  font-size: 37px;
 }
 
 .footer_section {
@@ -585,9 +589,10 @@ p {
     margin: 0 auto;
   }
 
-  /* #work-container {
+  .reverse {
+    display: flex;
     flex-direction: row-reverse;
-  } */
+  }
 
   .left-block h2 {
     font-size: 38px;
@@ -770,13 +775,14 @@ p {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 800px;
+    height: 730px;
     background-color: #6070ff;
     background-image: url(./images/contact\ form\ shapes-mobile.svg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right;
     border-top-left-radius: 120px;
+    margin-top: 0;
   }
 
   .footer_container {
@@ -807,7 +813,7 @@ p {
     box-sizing: border-box;
     font-weight: 400;
     color: rgba(23, 43, 77, 1);
-    border-radius: 8px;
+    border-radius: 0;
     width: 75%;
     padding: 8px 12px;
     height: 48px;
@@ -826,12 +832,20 @@ p {
     font-size: 15px;
     font-weight: 400;
     line-height: 20px;
-    border-radius: 8px;
+    border-radius: 0;
     outline: none;
     border: 1px solid #cfd8dc;
   }
 
+  .footer-section p {
+    font-size: 20px;
+  }
+
   .form-btn {
-    align-content: center;
+    align-items: center;
+    padding-left: 1%;
+    padding-top: 0.5%;
+    display: flex;
+    margin-left: 30%;
   }
 }
