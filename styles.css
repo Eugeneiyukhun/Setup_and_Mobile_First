@@ -450,7 +450,7 @@ p {
   color: #fff;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 768px) {
   body {
     font-size: 20px;
     line-height: 28px;
@@ -774,7 +774,7 @@ p {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 730px;
+    height: 100%;
     background-color: #6070ff;
     background-image: url(./images/contact\ form\ shapes-mobile.svg);
     background-repeat: no-repeat;
@@ -786,7 +786,8 @@ p {
 
   .footer_container {
     margin-top: 100px;
-    padding: 140px 250px;
+    padding: 190px 290px;
+    align-content: center;
   }
 
   .footer_header {
@@ -836,8 +837,10 @@ p {
     border: 1px solid #cfd8dc;
   }
 
-  .footer-section p {
+  .footer_section p {
     font-size: 20px;
+    width: 75%;
+    margin-left: -5%;
   }
 
   .form-btn {
